@@ -1,0 +1,11 @@
+{
+  "name": "EvgeniyBlinov/qrcode",
+  "version": "1.0.0",
+  "description": "qrcode for terminal",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.10.0"
+  }
+}
