@@ -1,7 +1,10 @@
 [![MIT License][license-image]][license-url]
 
 # QRcode
-qrcode for terminal
+> qrcode for terminal
+
+![Basic Example][basic-example-img]
+
 
 ## Install
 
@@ -28,3 +31,4 @@ echo 'https://github.com/EvgeniyBlinov/qrcode'|qrcode
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
+[basic-example-img]: https://raw.github.com/EvgeniyBlinov/qrcode/master/example.png
