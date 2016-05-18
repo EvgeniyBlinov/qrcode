@@ -6,6 +6,10 @@ qrcode for terminal
 ## Install
 
 ```sh
+git clone https://github.com/EvgeniyBlinov/qrcode /usr/local/share/qrcode &&
+cd /usr/local/share/qrcode &&
+npm install &&
+ln -s /usr/local/share/qrcode/bin/qrcode /usr/local/bin/qrcode
 ```
 
 ## Usage
